@@ -182,3 +182,24 @@ Using the model for targeting aims to significantly reduce False Positives (savi
 
 ## Screen shoot tabelau
 
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/1.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/2.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/3.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/4.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/5.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/6.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/7.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/8.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/9.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/10.JPG)
+
+![Image Alt](https://github.com/PurwadhikaDev/DeltaGroup_JC_DS_AH_BDG_0108_FinalProject/blob/f469fe8b0e5b6ac5046afbe7b3202ad8908a4dbc/11.JPG)
