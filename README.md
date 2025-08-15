@@ -154,25 +154,6 @@ By implementing these steps, banks can continuously improve their forecasting ca
 
 By implementing these recommendations, the bank can leverage the predictive power of the model to make more informed marketing decisions, leading to increased efficiency and a higher term deposit conversion rate.
 
-## Cost & Benefit Analysis (Simulation)
-
-*(This section is based on the simulation provided in the notebook and should be updated with actual figures if available)*
-
-Based on a simulated campaign with a minimal deposit of €100, the costs and benefits were analyzed:
-
-**Costs:**
-*   Cost per contact (Telephone + Transportation): Approximately €0.03 per person (if no closing).
-*   Cost upon successful closing (Interest + Other Operational Costs): Approximately 7.03% of the deposit amount (€7.03 for a €100 deposit).
-
-**Benefits:**
-*   Total Benefit from a successful deposit (Interest Income + Fee & Investment): Approximately 13% of the deposit amount (€13 for a €100 deposit).
-
-**Business Impact:**
-*   **False Positive (Predict Yes, Actual No):** Cost of ineffective contact (approx. €0.03 per person).
-*   **False Negative (Predict No, Actual Yes):** Opportunity cost of a missed potential deposit (approx. €13 per person).
-
-Using the model for targeting aims to significantly reduce False Positives (saving contact costs) while minimizing False Negatives (not missing too many potential deposits), leading to a net gain in profitability compared to contacting all potential customers.
-
 ## How to Run the Code
 
 1.  Clone the repository to your local machine or open it in Google Colab.
