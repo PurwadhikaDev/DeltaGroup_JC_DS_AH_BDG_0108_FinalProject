@@ -177,3 +177,8 @@ Using the model for targeting aims to significantly reduce False Positives (savi
 
 1.  Clone the repository to your local machine or open it in Google Colab.
 2.  Ensure you have the necessary libraries installed. You can install them using pip:
+
+## Link Tabeleau : https://public.tableau.com/app/profile/rendi.dharmawan/viz/BankDepositocek/Overview
+
+## Screen shoot tabelau
+
