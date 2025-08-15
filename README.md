@@ -135,7 +135,18 @@ These interpretations provide valuable insights into customer behavior and help 
 
 The developed XGBoost model demonstrates the potential to effectively identify customers likely to subscribe to a term deposit. The model's ability to capture a significant portion of potential subscribers (indicated by Recall) is valuable for optimizing marketing campaigns. Key factors influencing subscription were identified through feature importance and SHAP analysis, including economic indicators and contact history. A preliminary cost analysis suggests that using the model for targeting can lead to significant cost savings compared to mass marketing, without losing a substantial number of potential customers.
 
-**Recommendations:**
+**Cost-benefit analysis**
+this is a simulation in reference to minimum cash for term deposit in : https://www.nexentbank.ro/en/interests-quotes-and-exchange-rates/interests
+*   Cost per contact (Telephone + Transportation): Approximately €3 per person (if no closing).
+*   Cost upon successful closing (Interest + Other Operational Costs): Approximately 10% of the deposit amount (€10 for a €100 deposit).
+
+**Benefits:**
+*   Total Benefit from a successful deposit (Interest Income + Fee & Investment): Approximately 13% of the deposit amount (€13 for a €100 deposit).
+
+**Business Impact:**
+*   **False Positive (Predict Yes, Actual No):** Cost of ineffective contact (approx. €3 per person).
+*   **False Negative (Predict No, Actual Yes):** Opportunity cost of a missed potential deposit (approx. €13 per person subtracted by adm cost approximately €7 with the total of €6).
+
 
 ## Recommendations
 
